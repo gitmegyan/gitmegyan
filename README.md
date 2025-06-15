@@ -6,3 +6,5 @@ Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Microservices, Pla
 
 💬 Ask me about Selenium, Appium, Rest Assured, Docker, Selenide, Playwright.
 📫 How to reach me: gengyana@gmail.com (primary)
+
+https://www.linkedin.com/in/gyana-padhi/
